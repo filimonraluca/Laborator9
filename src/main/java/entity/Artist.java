@@ -1,6 +1,11 @@
 package entity;
 import javax.persistence.*;
-import java.io.Serializable;
+
+/**
+ * Clasa Artist este o entitate, reprezentand tabela artists din baza de date si fiecare atribut
+ * reprezinta o coloana din baza de date. Avem de asemenea un named query folosit pentru a defini
+ * un query a carui string nu se modifica.
+ */
 
 @Entity
 @Table(name="artists")
@@ -8,16 +13,13 @@ import java.io.Serializable;
         @NamedQuery(name = "Artist.findByName",
                 query = "SELECT p FROM Artist p WHERE p.name=:name")})
 
-public class Artist implements Serializable {
+public class Artist{
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Basic(optional = false)
     @Column(name = "ID")
     private Integer id;
-    @Basic(optional = false)
     @Column(name = "NAME")
     private String name;
-    @Basic(optional = false)
     @Column(name = "COUNTRY")
     private String country;
 

@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1a240d7-f0df-4c4e-9dfa-35f4ca32829a" name="Default Changelist" comment="" />
+    <list default="true" id="f1a240d7-f0df-4c4e-9dfa-35f4ca32829a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/app/AlbumManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/app/AlbumManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/entity/Album.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/entity/Album.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/entity/Artist.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/entity/Artist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/repo/AlbumRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/repo/AlbumRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/repo/ArtistRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/repo/ArtistRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/AlbumManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/AlbumManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/Album.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/Artist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/Artist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repo/AlbumRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repo/AlbumRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repo/ArtistRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repo/ArtistRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/PersistenceUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/PersistenceUtil.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +39,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aQxINq8eE6VXLFnzwza62PCCfl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,7 +53,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Laborator8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -82,7 +106,13 @@
       <option name="presentableId" value="Default" />
       <updated>1586681537794</updated>
       <workItem from="1586681541271" duration="8274000" />
-      <workItem from="1586705828279" duration="209000" />
+      <workItem from="1586705828279" duration="639000" />
+      <workItem from="1586706613491" duration="332000" />
+      <workItem from="1586706990950" duration="118000" />
+      <workItem from="1586707604713" duration="182000" />
+      <workItem from="1586707902835" duration="2629000" />
+      <workItem from="1586718763453" duration="1874000" />
+      <workItem from="1586770495007" duration="1206000" />
     </task>
     <servers />
   </component>
@@ -110,29 +140,29 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="479" y="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1586682723209" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1586705867460">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1586707824419">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586705867460" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1586691552255">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586707824419" />
+    <state width="1323" height="168" key="GridCell.Tab.0.bottom" timestamp="1586720663462">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586691552255" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1586691552255">
+    <state width="1323" height="168" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586720663462" />
+    <state width="1323" height="168" key="GridCell.Tab.0.center" timestamp="1586720663462">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586691552255" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1586691552255">
+    <state width="1323" height="168" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586720663462" />
+    <state width="1323" height="168" key="GridCell.Tab.0.left" timestamp="1586720663462">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586691552255" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1586691552255">
+    <state width="1323" height="168" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586720663462" />
+    <state width="1323" height="168" key="GridCell.Tab.0.right" timestamp="1586720663462">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586691552255" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1586705859947">
+    <state width="1323" height="168" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586720663462" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1586770501518">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586705859947" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586770501518" />
   </component>
 </project>

@@ -3,6 +3,12 @@ package entity;
 
 import javax.persistence.*;
 
+/**
+ * Clasa Album este o entitate, reprezentand tabela albums din baza de date si fiecare atribut
+ * reprezinta o coloana din baza de date. Avem de asemenea doua named query folosit pentru a defini
+ * un query-uri a caror stringuri nu se modifica.
+ */
+
 @Entity
 @Table(name = "albums")
 @NamedQueries(
@@ -10,19 +16,16 @@ import javax.persistence.*;
                 query = "SELECT p FROM Album p WHERE p.name=:name"),
                 @NamedQuery(name = "Album.findByArtist",
                         query = "SELECT p FROM Album p WHERE p.artist_id=:artist_id")})
-public class Album {
+public class Album{
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
 
-    @Basic(optional = false)
     @Column(name = "ID")
     private Integer id;
 
-    @Basic(optional = false)
     @Column(name = "artist_id")
     private int artist_id;
 
-    @Basic(optional = false)
     @Column(name = "NAME")
     private String name;
 
